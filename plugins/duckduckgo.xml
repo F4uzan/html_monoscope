@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <id>duckduckgo</id>
+  <icon>duckduckgo</icon>
+  <icon_format>webp</icon_format>
+  <search_uri>https://duckduckgo.com/?q=</search_uri>
+</plugin>

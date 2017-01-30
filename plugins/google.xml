@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <id>google</id>
+  <icon>google</icon>
+  <icon_format>webp</icon_format>
+  <search_uri>https://encrypted.google.com/search?q=</search_uri>
+</plugin>

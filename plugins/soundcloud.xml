@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <id>soundcloud</id>
+  <icon>soundcloud</icon>
+  <icon_format>png</icon_format>
+  <search_uri>https://soundcloud.com/search?q=</search_uri>
+</plugin>

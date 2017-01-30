@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <id>youtube</id>
+  <icon>youtube</icon>
+  <icon_format>png</icon_format>
+  <search_uri>https://www.youtube.com/results?search_query=</search_uri>
+</plugin>
